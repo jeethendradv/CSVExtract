@@ -1,0 +1,5 @@
+H:\Projects\csvextract\csvextract\bin\Debug\csvextract.exe.config
+H:\Projects\csvextract\csvextract\bin\Debug\csvextract.exe
+H:\Projects\csvextract\csvextract\obj\Debug\csvextract.exe
+H:\Projects\csvextract\csvextract\obj\Debug\csvextract.pdb
+H:\Projects\CSVExtract\csvextract\bin\Debug\csvextract.pdb
